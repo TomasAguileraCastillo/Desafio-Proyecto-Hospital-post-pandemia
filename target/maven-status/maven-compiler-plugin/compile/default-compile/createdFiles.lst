@@ -1,0 +1,6 @@
+cl\praxis\Desafio\Proyecto\Hospital\post\pandemia\model\services\ServicePatients.class
+cl\praxis\Desafio\Proyecto\Hospital\post\pandemia\model\dto\Patients.class
+cl\praxis\Desafio\Proyecto\Hospital\post\pandemia\ServletInitializer.class
+cl\praxis\Desafio\Proyecto\Hospital\post\pandemia\model\services\ServicePatientsImpl.class
+cl\praxis\Desafio\Proyecto\Hospital\post\pandemia\controller\PatientsController.class
+cl\praxis\Desafio\Proyecto\Hospital\post\pandemia\DesafioProyectoHospitalPostPandemiaApplication.class
