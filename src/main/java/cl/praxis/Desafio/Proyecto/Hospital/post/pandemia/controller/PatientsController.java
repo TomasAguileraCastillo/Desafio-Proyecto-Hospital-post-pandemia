@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 @RequestMapping("/")
-public class PatientsController {
+public class PatientsController  {
 
     private static final Logger log = LoggerFactory.getLogger(DesafioProyectoHospitalPostPandemiaApplication.class);
     private ServicePatients servicePatients;
